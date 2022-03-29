@@ -1,5 +1,6 @@
 ### Hiya! 👋
 I'm Mia and it's nice to meet ya!
+
 ![Twitch Status](https://img.shields.io/twitch/status/xomiamoore?style=social)
 
 * 🥑 Currently: Senior Developer Relations Programs Manager at New Relic
