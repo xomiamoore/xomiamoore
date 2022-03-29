@@ -1,7 +1,8 @@
 ### Hiya! 👋
 I'm Mia and it's nice to meet ya!
+![Twitch Status](https://img.shields.io/twitch/status/xomiamoore?style=social)
 
-* 🥑 Currently: Senior Developer Programs Manager at New Relic
+* 🥑 Currently: Senior Developer Relations Programs Manager at New Relic
 * 👯‍♀️ Experience in content marketing, social media, and community management
 * 🎓 MBA in Digital Media Management
 * 💫 Mentor and advocate for diversity and inclusion in tech
