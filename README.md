@@ -7,5 +7,5 @@ I'm Mia and it's nice to meet ya!
 * 👯‍♀️ Experience in content marketing, social media, and community management
 * 🎓 MBA in Digital Media Management
 * 💫 Mentor and advocate for diversity and inclusion in tech
-* 💻 Workin' on #100DaysOfCode and Furby hacking on [Twitch](http://www.twitch.tv/xomiamoore)
+* 💻 Workin' on programming, Furby hacking, and coworking on [Twitch](http://www.twitch.tv/xomiamoore)
 * 💬 Talk to me about DevRel, Animal Crossing, or plants!
