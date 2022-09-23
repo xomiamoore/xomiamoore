@@ -12,7 +12,7 @@ jobs:
       - name: Generate
         uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
-          feed_urls: FEEDS
+          feed_urls: https://www.xomia.com/blog?format=rss
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
