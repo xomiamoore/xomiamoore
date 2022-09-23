@@ -1,4 +1,4 @@
-### Hiya! 👋
+## Hiya! 👋
 I'm Mia, it's nice to meet ya!
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/xomiamoore?style=social) ![Twitch Status](https://img.shields.io/twitch/status/xomiamoore?style=social)
