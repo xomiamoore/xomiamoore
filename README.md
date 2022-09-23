@@ -9,3 +9,6 @@ I'm Mia, it's nice to meet ya!
 * 💫 Mentor and advocate for diversity and inclusion in tech
 * 💻 Workin' on programming, Furby hacking, and coworking on [Twitch](http://www.twitch.tv/xomiamoore)
 * 💬 Talk to me about DevRel, Animal Crossing, or plants!
+
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
